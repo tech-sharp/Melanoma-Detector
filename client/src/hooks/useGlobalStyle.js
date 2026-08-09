@@ -128,4 +128,4 @@ export const useGlobalStyle = () => {
       fontFamily: 'Montserrat_400Regular',
     },
   });
-};
+};
