@@ -4,4 +4,4 @@ import AllowCamera from '@assets/svg/allowcamera.svg';
 import CameraIcon from '@assets/svg/camera-icon.svg';
 import GalleryIcon from '@assets/svg/gallery-icon.svg';
 
-export { WelcomeSvg, AllowCamera, AllowGallery, CameraIcon, GalleryIcon };
+export { WelcomeSvg, AllowCamera, AllowGallery, CameraIcon, GalleryIcon };
